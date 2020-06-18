@@ -1,0 +1,8 @@
+export const DEFAULT_DATA = 'DEFAULT_DATA'
+export const DELL_DATA = 'DELL_DATA'
+export const SEAR_DATA = 'SEAR_DATA'
+export const ADD_DATA = 'ADD_DATA'
+export const EDIT_DATA = 'EDIT_DATA'
+export const ADD_TAGS = 'ADD_TAGS'
+export const DELETE_TAGS = 'DELETE_TAGS'
+export const ADD_TAG_KEYS = 'ADD_TAG_KEYS'
