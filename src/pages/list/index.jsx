@@ -41,7 +41,8 @@ function List(props) {
             )
           })
         } 
-        </div> 
+          </div> 
+          <p>添加了p标签</p>
       </InfiniteScroll>
     </div>
   )
