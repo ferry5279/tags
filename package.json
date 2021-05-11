@@ -14,7 +14,7 @@
     "less": "^3.11.3",
     "less-loader": "^5.0.0",
     "loadsh": "^0.0.4",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "prop-types": "^15.7.2",
     "rc-tween-one": "^2.7.2",
     "react": "^16.13.1",
